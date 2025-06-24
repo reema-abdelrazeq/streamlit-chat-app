@@ -15,7 +15,7 @@ Interact with powerful language models locally or remotely, through a sleek and 
 
 ## Image Demo:
 
-![Streamlit Ollama Chat App] (Screenshot (26).png)
+![Streamlit Ollama Chat App](Screenshot (26).png)
 
 ## Installation 🛠️
 
@@ -33,10 +33,10 @@ Interact with powerful language models locally or remotely, through a sleek and 
 ## Running with Docker
 
 1. Build the Docker image:
-
+   ```bash
    docker build -t streamlit-chat .
 2. Run the Docker container:
-   
+    ```bash
    docker run -p 8501:8501 --add-host=host.docker.internal:host-gateway streamlit-chat
 
 ## Notes📌
