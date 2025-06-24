@@ -15,7 +15,7 @@ Interact with powerful language models locally or remotely, through a sleek and 
 
 ## Image Demo:
 
-![Streamlit Ollama Chat App](Screenshot (26).png)
+![Streamlit Ollama Chat App] (Screenshot (26).png)
 
 ## Installation 🛠️
 
@@ -25,8 +25,9 @@ Interact with powerful language models locally or remotely, through a sleek and 
    cd streamlit-chat-app
   
 2. Install dependencies:
+    ```bash
     pip install -r requirements.txt
-3. Run the app locally
+4. Run the app locally
 
 
 ## Running with Docker
