@@ -15,7 +15,7 @@ Interact with powerful language models locally or remotely, through a sleek and 
 
 ## Image Demo:
 
-![Streamlit Ollama Chat App](Screenshot (26).png)
+![Streamlit Ollama Chat App](chatapp.png)
 
 ## Installation 🛠️
 
